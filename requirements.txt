@@ -1,0 +1,8 @@
+openai
+langchain
+llamaindex
+torch
+numpy
+pandas
+tiktoken
+flasks
